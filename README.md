@@ -11,7 +11,7 @@
 <h2 align="left">🚀 About Me</h2>
 <div align="left">
   <p>💻 Full-stack Software Developer specializing in web and cross-platform mobile development
-  <br>🎓 Computer Science student at Interamericana de Puerto Rico
+  <br>🎓 Computer Science student at Interamerican University of Puerto Rico
   <br>🏢 Former Software Developer at Bridge Security Services, focusing on system enhancement and infrastructure maintenance
   <br>🔧 Experienced in developing full-stack and mobile applications using React, React Native, Node.js, and Angular
   <br>🛠️ Proficient in modern database solutions including PostgreSQL, MySQL, Firebase, and Supabase
