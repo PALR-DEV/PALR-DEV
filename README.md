@@ -27,22 +27,24 @@
   <br>📡 Studying Distributed Systems and Network Programming</p>
 </div>
 
-<h2 align="center">🔭 Current Projects</h2>
+<h2 align="left">🔭 Current Projects</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/PALR-DEV/MultiChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALR-DEV&repo=MultiChatApp&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALR-DEV&repo=MultiChatApp&theme=synthwave&hide_border=true"/>
   </a>
   <a href="https://github.com/PALR-DEV/HourTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALR-DEV&repo=Android_Studio_RecipeApp&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALR-DEV&repo=Android_Studio_RecipeApp&theme=synthwave&hide_border=true"/>
   </a>
 </p>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" /> 
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
@@ -67,7 +69,7 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="left">📊 GitHub Statistics</h2>
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PALR-DEV&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALR-DEV&theme=github_dark&layout=compact&hide_border=true"/>
@@ -77,12 +79,12 @@
   <img height="150em" src="https://streak-stats.demolab.com/?user=PALR-DEV&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9"/>
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="left">📈 Activity Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=palr-dev&theme=github-compact&custom_title=PALR-DEV%20Activity%20Graph&hide_border=true" alt="activity graph"/>
 </p>
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="left">🤝 Let's Connect</h2>
 <p align="center">
   <a href="https://linkedin.com/in/pedrolorenzorosario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
