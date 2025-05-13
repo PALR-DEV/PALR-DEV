@@ -20,12 +20,7 @@
   <br>🎯 Specialized in building robust, secure, and user-friendly cross-platform applications</p>
 </div>
 
-<h2 align="left">📚 Current Learning Goals</h2>
-<div align="left">
-  <p>🦀 Learning Rust Programming Language
-  <br>🌐 Exploring P2P Network Architecture and Protocols
-  <br>📡 Studying Distributed Systems and Network Programming</p>
-</div>
+
 
 <h2 align="left">🔭 Current Projects</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
