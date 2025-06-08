@@ -22,15 +22,7 @@
 
 
 
-<h2 align="left">🔭 Current Projects</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/PALR-DEV/Movie-Theater">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALR-DEV&repo=Movie-Theater&theme=synthwave&hide_border=true"/>
-  </a>
-<!--   <a href="https://github.com/PALR-DEV/Movie-Theater-AdminPanel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALR-DEV&repo=Android_Studio_RecipeApp&theme=synthwave&hide_border=true"/>
-  </a> -->
-</p>
+
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
 <p align="center">
