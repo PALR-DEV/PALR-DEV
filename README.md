@@ -1,22 +1,21 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=PALR-DEV&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=25&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Pedro%20Lorenzo&fontSize=60&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=25&descAlignY=75"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Engineer;Mobile+App+Developer;Cross-Platform+Builder" alt="Typing SVG" />
-</div>
+
 
 ---
 
 ### 🚀 About Me
 
-- 💻 **Software Engineer** with a passion for scalable backend systems and seamless frontend experiences  
-- 🎓 Computer Science graduate from Interamerican University of Puerto Rico  
-- 🧠 Former Software Developer at Bridge Security Services, focused on infrastructure and system enhancements  
-- 📱 Experienced in building cross-platform apps and modern web applications using React, React Native, Angular, and Node.js  
-- 🛠️ Proficient in relational and cloud databases like PostgreSQL, MySQL, Firebase, and Supabase  
-- 🔍 Focused on clean code, developer experience, and performance  
-- 🛠️ Notable projects: MultiChat Application, Hour Tracker
+- 💻 **Software Engineer** with a passion for scalable backend
+- 🎓 Computer Science grad from Interamerican University of Puerto Rico
+- 🛰️ Currently at Lockheed Martin Space
+- 🛠️ I spend most of my time with PostgreSQL, MySQL, Supabase, and Docker
+- ⚙️ Big fan of scalable systems, clean APIs, and microservices that don’t fall apart
+- 🌱 Always learning something new — usually the hard way
+  
 
 ---
 
