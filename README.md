@@ -11,7 +11,7 @@
 
 - 💻 **Software Engineer** with a passion for scalable backend
 - 🎓 Computer Science grad from Interamerican University of Puerto Rico
-- 🛰️ Currently at Lockheed Martin Space
+- 🛰️ Currently at **Lockheed Martin Space**
 - 🛠️ I spend most of my time with PostgreSQL, MySQL, Supabase, and Docker
 - ⚙️ Big fan of scalable systems, clean APIs, and microservices that don’t fall apart
 - 🌱 Always learning something new — usually the hard way
