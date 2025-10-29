@@ -66,13 +66,6 @@
 </p>
 
 ---
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palr-dev&theme=github-compact&custom_title=PALR-DEV%20Activity%20Graph&hide_border=true" alt="activity graph"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer"/>
 </p>
